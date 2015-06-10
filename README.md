@@ -4,4 +4,4 @@ Let's consider a cosmology in which all minds and everything we can perceive are
 
 The present work is about a software synthesizer called Bendy. Bendy is a modest attempt work with sound within this paradigm; I hope it can create novel sound objects and enable musical experiences.
 
-[read more](blob/master/bendy.ipynb)
+[read more](bendy.ipynb)
